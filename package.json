@@ -26,7 +26,7 @@
     "typings/index.d.ts"
   ],
   "dependencies": {
-    "find-module-bin": "0.0.2"
+    "find-module-bin": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^7.0.55",
